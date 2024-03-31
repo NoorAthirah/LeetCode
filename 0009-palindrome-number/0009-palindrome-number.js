@@ -13,3 +13,5 @@ function isPalindrome(x){
         reverse=reverse*10 + i%10;
     return reverse ===x;
 };
+
+//solution is from https://www.youtube.com/watch?v=egENCuDW9Oc
